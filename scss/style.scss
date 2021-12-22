@@ -173,7 +173,7 @@ body {
 			display: inline-block;
 			width: 25px;
 			height: 25px;
-			background: url(/img/ico/search.png) 0 0 / cover no-repeat;
+			background: url(https://rkozhan.github.io/ace-studio/img/ico/search.png) 0 0 / cover no-repeat;
 			position: relative;
 			&:hover::after {
 				opacity: 1;
@@ -524,14 +524,15 @@ body {
 	&__item {
 	}
 	@media (max-width: 768px) {
-		background: url(/img/quality/quality-bg-small.jpg) center / auto auto no-repeat;
+		background: url(https://rkozhan.github.io/ace-studio/img/quality/quality-bg-small.jpg) center / auto auto
+			no-repeat;
 	}
 	@media (min-width: 769px) {
 		padding: 100px 0;
-		background: url(/img/quality/quality-bg.jpg) 0 0 / auto auto no-repeat;
+		background: url(https://rkozhan.github.io/ace-studio/img/quality/quality-bg.jpg) 0 0 / auto auto no-repeat;
 	}
 	@media (min-width: 1600px) {
-		background: url(/img/quality/quality-bg.jpg) 0 0 / cover no-repeat;
+		background: url(https://rkozhan.github.io/ace-studio/img/quality/quality-bg.jpg) 0 0 / cover no-repeat;
 	}
 }
 
@@ -549,10 +550,10 @@ body {
 	&__icon {
 		height: 100%;
 		&_prof {
-			background: url(/img/quality/q-1.png) 0 0 / contain no-repeat;
+			background: url(https://rkozhan.github.io/ace-studio/img/quality/q-1.png) 0 0 / contain no-repeat;
 		}
 		&_save {
-			background: url(/img/quality/q-2.png) 0 0 / contain no-repeat;
+			background: url(https://rkozhan.github.io/ace-studio/img/quality/q-2.png) 0 0 / contain no-repeat;
 		}
 	}
 	&__title {
@@ -613,7 +614,7 @@ body {
 	content: "";
 }
 .swiper-button-next {
-	background: url(/img/reviews/next.png) center / 12px no-repeat;
+	background: url(https://rkozhan.github.io/ace-studio/img/reviews/next.png) center / 12px no-repeat;
 	background-color: #f0b016;
 	transform: translateX(10px);
 	&:hover {
@@ -621,7 +622,7 @@ body {
 	}
 }
 .swiper-button-prev {
-	background: url(/img/reviews/prev.png) center / 12px no-repeat;
+	background: url(https://rkozhan.github.io/ace-studio/img/reviews/prev.png) center / 12px no-repeat;
 	background-color: #f0b016;
 	transform: translateX(-10px);
 	&:hover {
@@ -675,7 +676,7 @@ body {
 			bottom: -15px;
 			left: 50%;
 			transform: translateX(-50%);
-			background: url(/img/reviews/quote.png) 0 0 / auto no-repeat;
+			background: url(https://rkozhan.github.io/ace-studio/img/reviews/quote.png) 0 0 / auto no-repeat;
 		}
 	}
 }
@@ -877,7 +878,7 @@ body {
 }
 @media (min-width: 769px) {
 	.intouch {
-		background: url(/img/intouch/contact-bg.jpg) 0 0 / cover no-repeat;
+		background: url(https://rkozhan.github.io/ace-studio/img/intouch/contact-bg.jpg) 0 0 / cover no-repeat;
 		&__content {
 			display: flex;
 			align-items: flex-start;
@@ -1004,16 +1005,16 @@ body {
 			}
 		}
 		.fb {
-			background-image: url(/img/footer/fb.png);
+			background-image: url(https://rkozhan.github.io/ace-studio/img/footer/fb.png);
 		}
 		.twit {
-			background-image: url(/img/footer/twitter.png);
+			background-image: url(https://rkozhan.github.io/ace-studio/img/footer/twitter.png);
 		}
 		.insta {
-			background-image: url(/img/footer/insta.png);
+			background-image: url(https://rkozhan.github.io/ace-studio/img/footer/insta.png);
 		}
 		.linkedin {
-			background-image: url(/img/footer/linkedin.png);
+			background-image: url(https://rkozhan.github.io/ace-studio/img/footer/linkedin.png);
 		}
 	}
 	&__subscribe {
@@ -1045,13 +1046,13 @@ body {
 		}
 	}
 	&__adress::before {
-		background: url(/img/footer/location.png) 0 0 / contain no-repeat;
+		background: url(https://rkozhan.github.io/ace-studio/img/footer/location.png) 0 0 / contain no-repeat;
 	}
 	&__number::before {
-		background: url(/img/footer/call.png) 0 0 / contain no-repeat;
+		background: url(https://rkozhan.github.io/ace-studio/img/footer/call.png) 0 0 / contain no-repeat;
 	}
 	&__email::before {
-		background: url(/img/footer/mail.png) 0 0 / contain no-repeat;
+		background: url(https://rkozhan.github.io/ace-studio/img/footer/mail.png) 0 0 / contain no-repeat;
 	}
 }
 
@@ -1080,7 +1081,7 @@ body {
 		width: 55px;
 		font-size: 15px;
 		text-transform: uppercase;
-		background-image: url(../img/footer/right-arrow.png);
+		background-image: url(https://rkozhan.github.io/ace-studio/img/footer/right-arrow.png);
 		background-size: 24px;
 		background-position: center;
 		background-repeat: no-repeat;
