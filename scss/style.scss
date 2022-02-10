@@ -965,6 +965,7 @@ body {
 		li {
 			margin: 3px 0;
 			position: relative;
+
 			&._active::before,
 			&:hover::before {
 				background-color: #f0b016;
